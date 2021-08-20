@@ -1,11 +1,11 @@
 [
     {
-        "display_name": "Dashboard",
+        "display_name": "แดชบอร์ด",
         "route": "/",
         "icon": "bx bx-category-alt"
     },
     {
-        "display_name": "Customers",
+        "display_name": "จัดการสมาชิก",
         "route": "/customers",
         "icon": "bx bx-user-pin"
     },
